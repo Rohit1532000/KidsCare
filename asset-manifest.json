@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KidsCare/static/css/main.543d0700.css",
+    "main.js": "/KidsCare/static/js/main.88b1af29.js",
+    "static/media/LogoMakerCa-1664276593321.png": "/KidsCare/static/media/LogoMakerCa-1664276593321.e8634de1ec3edfa66ac4.png",
+    "static/media/Daycare.jpg": "/KidsCare/static/media/Daycare.aaa363206b53cc59c1b1.jpg",
+    "static/media/about.png": "/KidsCare/static/media/about.7f3c3268cdc2edc52ff6.png",
+    "index.html": "/KidsCare/index.html",
+    "main.543d0700.css.map": "/KidsCare/static/css/main.543d0700.css.map",
+    "main.88b1af29.js.map": "/KidsCare/static/js/main.88b1af29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543d0700.css",
+    "static/js/main.88b1af29.js"
+  ]
+}
